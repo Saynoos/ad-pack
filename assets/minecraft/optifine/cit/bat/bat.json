@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "bat",
-		"particle": "bat"
+		"0": "./bat",
+		"particle": "./bat"
 	},
 	"elements": [
 		{
@@ -133,12 +133,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-6, -81, -53],
+			"rotation": [6, -81, -53],
 			"translation": [1, 0, 12.75],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-112, 87, 160],
+			"rotation": [-101, 87, 160],
 			"translation": [0.75, 0, 12.75],
 			"scale": [0.4, 0.4, 0.4]
 		},
