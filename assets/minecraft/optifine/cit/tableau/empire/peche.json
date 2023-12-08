@@ -1,5 +1,5 @@
 {
-    "parent": "./tableau",
+    "parent": "optifine/cit/tableau/tableau.json",
     "textures": {
         "layer0": "./peche.png"
     }
