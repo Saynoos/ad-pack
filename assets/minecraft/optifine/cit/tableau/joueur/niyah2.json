@@ -1,0 +1,6 @@
+{
+    "parent": "optifine/cit/tableau/tableau2x2.json",
+    "textures": {
+        "layer0": "./niyah.png"
+    }
+}
