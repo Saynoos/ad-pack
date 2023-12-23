@@ -1,5 +1,5 @@
 {
-    "parent": "optifine/cit/tableau/tableau2x4.json",
+    "parent": "optifine/cit/tableau/tableau2x2.json",
     "textures": {
         "layer0": "./myrrah.png"
     }
