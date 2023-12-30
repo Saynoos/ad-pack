@@ -1,6 +1,0 @@
-{"variants":
-{"face=floor,facing=north,powered=true":{"model":"block/arbitre/tombe_north"},
-"face=floor,facing=south,powered=true":{"model":"block/arbitre/tombe_south"},
-"face=floor,facing=east,powered=true":{"model":"block/arbitre/tombe_east"},
-"face=floor,facing=west,powered=true":{"model":"block/arbitre/tombe_west"}
-}}
