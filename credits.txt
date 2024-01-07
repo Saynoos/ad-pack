@@ -1,9 +1,10 @@
 Crédits herobriniens :
 - Udrinbal: Mise en place général, Modèles 3D
 - Velours : La Pelle du Fossoyeur
-- Sylkabe : Modèles 3D
-- Aifa : Modèles 3D
-- Chawpa : Pixel-art tableaux
+- Sylkabe : Modèles 3D & edits
+- Aifa : Modèles 3D Tisserands
+- Chawpa : Pixel-art tableaux joueurs
+- Fragile : Fresque du Concile
 
 Crédits autre :
 Iron_bras : Vahaan
