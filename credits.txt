@@ -1,6 +1,5 @@
 Crédits herobriniens :
 - Udrinbal: Mise en place général, Modèles 3D
-- Velours : La Pelle du Fossoyeur
 - Sylkabe : Modèles 3D & edits
 - Aifa : Modèles 3D Tisserands
 - Chawpa : Pixel-art tableaux joueurs
@@ -12,3 +11,9 @@ Iron_bras : Vahaan
 
 Raven texture : Minecraft dungeons
 -> https://minecraft.fandom.com/wiki/Minecraft_Dungeons:Raven
+
+Cocoricot : Modèles/textures divers
+-> https://cocricot.pics/
+
+MinaTuria : Modèles/textures divers
+-> https://miniaturia.club/en/mt1122/
