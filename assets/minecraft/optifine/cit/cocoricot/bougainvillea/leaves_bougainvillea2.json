@@ -1,0 +1,8 @@
+{
+	"parent": "./leaves_bougainvillea",
+	"textures": {
+		"particle": "./leaves_bougainvillea_l",
+		"texture": "./leaves_bougainvillea_l",
+		"texture2": "./leaves_bougainvillea_u2"
+	}
+}
