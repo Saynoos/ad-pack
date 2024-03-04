@@ -1,0 +1,6 @@
+{
+    "parent": "optifine/cit/tableau/smoll.json",
+    "textures": {
+        "layer0": "./12.png"
+    }
+}
