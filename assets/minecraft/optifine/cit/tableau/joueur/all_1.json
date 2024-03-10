@@ -1,0 +1,6 @@
+{
+    "parent": "optifine/cit/tableau/tableau1x3.json",
+    "textures": {
+        "layer0": "./all_1.png"
+    }
+}
