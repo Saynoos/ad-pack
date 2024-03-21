@@ -1,6 +1,0 @@
-{
-    "parent": "optifine/cit/tableau/tableau2x4.json",
-    "textures": {
-        "layer0": "./merecosmos.png"
-    }
-}
